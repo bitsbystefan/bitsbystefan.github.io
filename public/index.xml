@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>AI Is Changing the Security Game. That’s Why My Jump Host Strategy Matters More Than Ever.</title>
+				<link>http://localhost:1313/blog/ai-changing-security-game-jump-host-strategy/</link>
+				<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/blog/ai-changing-security-game-jump-host-strategy/</guid>
+				<description>&lt;p&gt;&lt;em&gt;Security · Homelab · Infrastructure&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-day-the-php-vulnerability-became-a-wake-up-call&#34;&gt;The day the PHP vulnerability became a wake-up call&lt;/h2&gt;&#xA;&lt;p&gt;Today’s critical PHP security release is a reminder of how quickly the security landscape is changing.&lt;/p&gt;&#xA;&lt;p&gt;Two critical vulnerabilities, rated CVSS 9.2, have been fixed in PHP. Under certain conditions, they allow unauthenticated remote code execution — potentially giving an attacker the ability to execute code on a vulnerable server without first logging in.&lt;/p&gt;&#xA;&lt;p&gt;What makes this story particularly relevant is how the vulnerabilities were discovered. AI-assisted security research played a significant role in identifying them, demonstrating how advanced AI can help uncover flaws in widely used software.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>From Raspberry Pi to Mac: Simplifying My Amiga Setup with AmiKit X13.1</title>
 				<link>http://localhost:1313/blog/raspberry-pi-to-mac-amiga-setup-amikit/</link>
